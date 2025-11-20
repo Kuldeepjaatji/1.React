@@ -1,0 +1,32 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  background-image: url(sd.jpg);
+  color: chartreuse;
+}
+h1{
+  font-size: 60px;
+  text-align: center;
+  padding: 20px 0;
+  margin-bottom: 10px;
+}
+h2{
+  text-align: center;
+  margin: 10px 0;
+}
+.kk{
+  text-align: center;
+}
+button{
+    background-color: rgb(61, 12, 145);
+    text-align: center;
+    padding: 5px 30px;
+    margin: 10px 0;
+    color: aqua;
+}
+button:hover{
+  background-color: black;
+  color: aqua;
+}
